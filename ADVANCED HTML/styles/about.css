@@ -1,0 +1,16 @@
+.paragragh-1 {
+    color: brown; font-style:normal; font-size: x-large;
+    
+}
+.paragragh-2{
+    color: darkgreen; font-size: x-large;
+}
+#my-cohort-number{
+   background-color: chocolate; font-size: x-large;
+}
+#introduction{
+    font-style: normal; color: black; font-size: x-large;
+}
+body {
+    background-color: rgb(101, 126, 141);
+}
